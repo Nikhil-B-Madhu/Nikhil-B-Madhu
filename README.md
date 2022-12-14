@@ -1,5 +1,14 @@
 ### Hi there 👋
+## Thanks for dropping by! Here is peak about me and my projects! 😄
 
+## Education
+### Master's in Data Science &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp;  &emsp; &emsp; &emsp; &emsp;  &emsp; August 2022 - December 2023
+University of Colorado Boulder, Boulder, CO
+### BTech. - Electronic and Communication Engineering &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp;  &emsp; June 2016 - July 2020
+Manipal Institute of Technology, Manipal, India
+
+## Interests & Skills
+I am primarily interested in Machine Learning, Deep Learning and Data Mining Techniques. 
 <!--
 **Oakseeker/Oakseeker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
