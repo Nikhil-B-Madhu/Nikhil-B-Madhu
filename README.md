@@ -3,12 +3,16 @@
 
 ## Education
 ### Master's in Data Science
-University of Colorado Boulder, Boulder, CO
+- University of Colorado Boulder, Boulder, CO
 ### BTech. - Electronic and Communication Engineering 
-Manipal Institute of Technology, Manipal, India
+- Manipal Institute of Technology, Manipal, India
 
 ## Interests & Skills
-I am primarily interested in Machine Learning, Deep Learning and Data Mining Techniques. 
+I am primarily interested in: 
+- Machine Learning, Deep Learning
+- Data Engineering and Data Warehousing. 
+- Data Mining and Statistical Analysis. 
+- Data Visualization. 
 
 
 ## Technical Skills
