@@ -65,12 +65,7 @@ Agile and Waterfall.
 
 ## Personal Projects
 - ### Spotify Music Recommendation system, University of Colorado Boulder 
-<ol> 
-- Spearheaded a team of 4 to fabricate a probabilistic model by taking user ratings, song features to develop a song recommendation
-engine; with an accuracy of 75%.
-</ol><ol>
-- Developed data preprocessing pipeline for data obtained from Spotify API; utilized K-Mean clustering in R.
-</ol> 
+<ol>- Spearheaded a team of 4 to fabricate a probabilistic model for the Song data obtained from Spotify API. Developed data preprocessing pipeline for performing essential Exploratory Data Analysis (EDA). Performed Feature extraction to enchance features and to develop a song recommendation engine using K-Mean clustering in R. The model performed with an accuracy of 75%. Performed regression analysis to predict the popularity of the song by using multiple song features. Created a dashboard using PowerBI to further enchance the useability of the project.
 
 - ### StockBuff – Stacked temporal and sentiment analysis, University of Colorado Boulder 
 <ol>- Implemented Data Mining and market correlations to proactively predict stock market fluctuations using LSTM, mixed feature classifications and sentiment analysis.</ol>
