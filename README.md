@@ -64,7 +64,7 @@ Agile and Waterfall.
 - Designed a Super Resolution GAN using ResNet with skip-connections and loss functions tweaked to optimize the model.
 
 ## Personal Projects
-- ### Spotify Music Recommendation system, University of Colorado Boulder 
+- ### [Spotify Music Recommendation system](https://github.com/Oakseeker/Spotify_Music_Analytics_and_Recommendation_Engine), University of Colorado Boulder
 <ol>- Spearheaded a team of 4 to fabricate a probabilistic model for the Song data obtained from Spotify API. Developed data preprocessing pipeline for performing essential Exploratory Data Analysis (EDA). Performed Feature extraction to enchance features and to develop a song recommendation engine using K-Mean clustering in R. The model performed with an accuracy of 75%. Performed regression analysis to predict the popularity of the song by using multiple song features. Created a dashboard using PowerBI to further enchance the useability of the project.
 
 - ### StockBuff – Stacked temporal and sentiment analysis, University of Colorado Boulder 
