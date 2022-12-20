@@ -60,9 +60,25 @@ Agile and Waterfall.
 - Designed a Super Resolution GAN using ResNet with skip-connections and loss functions tweaked to optimize the model.
 
 ## Personal Projects
+- ### Spotify Music Recommendation system, University of Colorado Boulder 
+<ol> 
+- Spearheaded a team of 4 to fabricate a probabilistic model by taking user ratings, song features to develop a song recommendation
+engine; with an accuracy of 75%.
+</ol><ol>
+- Developed data preprocessing pipeline for data obtained from Spotify API; utilized K-Mean clustering in R.
+</ol> 
 
+- ### StockBuff – Stacked temporal and sentiment analysis, University of Colorado Boulder 
+<ol>- Implemented Data Mining and market correlations to proactively predict stock market fluctuations using LSTM, mixed feature classifications and sentiment analysis.</ol>
+<ol>- Deployed LSTM for time series analysis, NLP features for Sentiment Analysis and used ensemble model to boost the model’s prediction performance in predicting a stock price of a company.</ol>
+
+- ### Mutual Identity Authentication for Blockchain, Manipal Institute of Technology, India 
+<ol>- Developed an authentication protocol for mutually authenticating between three parties in a public blockchain system at any given time; reducing by 75% of authentication time compared to existing systems.</ol>
+<ol>- Led the implementation of a five-node public blockchain network using Hyperledger Fabric and Golang; applied Elliptic Curve Cryptography for developing an authentication protocol.</ol>
 
 ## Extracurriculars & Awards
+- Received Spot award from Deloitte for leading a project, troubleshooting major issues and minimizing expenses for clients.
+- Served as Executive Head of Electronics club, MIT, Manipal to organise different activities including general meetings, informative talks, and hackathons. Volunteered for Volunteering Service Organization (VSO) in uplifting the community.
 
 ## Research Articles
 - [Super-Resolution of Level-17 Images Using Generative Adversarial Networks](https://link.springer.com/chapter/10.1007/978-981-33-4582-9_29)
@@ -71,6 +87,7 @@ Agile and Waterfall.
 ## Contact
 - GitHub: [Oakseeker](https://github.com/Oakseeker/)
 - Linkedin: [Nikhil B M](https://www.linkedin.com/in/nikhilbm/)
+- Twitter: [Nikhil B M](https://twitter.com/NikhilBM4)
 
 
 
