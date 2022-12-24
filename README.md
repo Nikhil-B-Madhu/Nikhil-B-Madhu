@@ -73,14 +73,14 @@ Agile and Waterfall.
 - Designed a Super Resolution GAN using ResNet with skip-connections and loss functions tweaked to optimize the model.
 
 ## 📚 Projects
-- ### [Spotify Music Recommendation system](https://github.com/Oakseeker/Spotify_Music_Analytics_and_Recommendation_Engine), University of Colorado Boulder
+- ### 🎶 [Spotify Music Recommendation system](https://github.com/Oakseeker/Spotify_Music_Analytics_and_Recommendation_Engine), University of Colorado Boulder
 <ol>- Spearheaded a team of 4 to fabricate a probabilistic model for the Song data obtained from Spotify API. Developed data preprocessing pipeline for performing essential Exploratory Data Analysis (EDA). Performed Feature extraction to enchance features and to develop a song recommendation engine using K-Mean clustering in R. The model performed with an accuracy of 75%. Performed regression analysis to predict the popularity of the song by using multiple song features. Created a dashboard using PowerBI to further enchance the useability of the project.</ol>
 
-- ### [StockBuff – Stacked Temporal and Sentiment Analysis](https://github.com/Oakseeker/StockBuff-Stacked-temporal-and-sentiment-analysis-of-Stock-Market-Data), University of Colorado Boulder 
+- ### 📈 [StockBuff – Stacked Temporal and Sentiment Analysis](https://github.com/Oakseeker/StockBuff-Stacked-temporal-and-sentiment-analysis-of-Stock-Market-Data), University of Colorado Boulder 
 <ol>- Implemented Data Mining and market correlations to proactively predict stock market fluctuations using LSTM, mixed feature classifications and sentiment analysis.</ol>
 <ol>- Deployed LSTM for time series analysis, NLP features for Sentiment Analysis and used ensemble model to boost the model’s prediction performance in predicting a stock price of a company.</ol>
 
-- ### [Mutual Identity Authentication for Blockchain](https://github.com/Oakseeker/Blockchain-auth), Manipal Institute of Technology, India 
+- ### 💲 [Mutual Identity Authentication for Blockchain](https://github.com/Oakseeker/Blockchain-auth), Manipal Institute of Technology, India 
 <ol>- Developed an authentication protocol for mutually authenticating between three parties in a public blockchain system at any given time; reducing by 75% of authentication time compared to existing systems.</ol>
 <ol>- Led the implementation of a five-node public blockchain network using Hyperledger Fabric and Golang; applied Elliptic Curve Cryptography for developing an authentication protocol.</ol>
 
