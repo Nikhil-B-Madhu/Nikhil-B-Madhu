@@ -16,7 +16,7 @@
 ### BTech. - Electronic and Communication Engineering 
 - Manipal Institute of Technology, Manipal, India
 
-## Interests & Skills
+## 🚀 Interests & Skills
 I am primarily interested in: 
 - Machine Learning, Deep Learning
 - Data Engineering and Data Warehousing. 
@@ -55,7 +55,7 @@ Hadoop: CDP, HDP, HDFS, Apache Spark, MapReduce.
 Agile and Waterfall.
 </ol>
 
-## Work Experience
+## 👨‍💻 Work Experience
 ### Application Associate @ Deloitte Consulting India Private Limited Bangalore, India
 *September 2020 – July 2022*
 
@@ -72,7 +72,7 @@ Agile and Waterfall.
 - Developed a Generative Adversarial Network (GAN) in upscaling a low-resolution scale 10 satellite image to a higher resolution scale 30 image; enhanced image detection performance by 25%.
 - Designed a Super Resolution GAN using ResNet with skip-connections and loss functions tweaked to optimize the model.
 
-## Personal Projects
+## 📚 Projects
 - ### [Spotify Music Recommendation system](https://github.com/Oakseeker/Spotify_Music_Analytics_and_Recommendation_Engine), University of Colorado Boulder
 <ol>- Spearheaded a team of 4 to fabricate a probabilistic model for the Song data obtained from Spotify API. Developed data preprocessing pipeline for performing essential Exploratory Data Analysis (EDA). Performed Feature extraction to enchance features and to develop a song recommendation engine using K-Mean clustering in R. The model performed with an accuracy of 75%. Performed regression analysis to predict the popularity of the song by using multiple song features. Created a dashboard using PowerBI to further enchance the useability of the project.</ol>
 
@@ -84,15 +84,15 @@ Agile and Waterfall.
 <ol>- Developed an authentication protocol for mutually authenticating between three parties in a public blockchain system at any given time; reducing by 75% of authentication time compared to existing systems.</ol>
 <ol>- Led the implementation of a five-node public blockchain network using Hyperledger Fabric and Golang; applied Elliptic Curve Cryptography for developing an authentication protocol.</ol>
 
-## Extracurriculars & Awards
+## 📣 Extracurriculars & Awards
 - Received Spot award from Deloitte for leading a project, troubleshooting major issues and minimizing expenses for clients.
 - Served as Executive Head of Electronics club, MIT, Manipal to organise different activities including general meetings, informative talks, and hackathons. Volunteered for Volunteering Service Organization (VSO) in uplifting the community.
 
-## Research Articles
+## 📜 Research Articles
 - [Super-Resolution of Level-17 Images Using Generative Adversarial Networks](https://link.springer.com/chapter/10.1007/978-981-33-4582-9_29)
 - [DDMIA: Distributed Dynamic Mutual Identity Authentication for Referrals in Blockchain-Based Health Care Networks](https://ieeexplore.ieee.org/document/9837070?source=authoralert)
 
-## Contact
+## 📱 Contact
 - GitHub: [Oakseeker](https://github.com/Oakseeker/)
 - Linkedin: [Nikhil B M](https://www.linkedin.com/in/nikhilbm/)
 - Twitter: [Nikhil B M](https://twitter.com/NikhilBM4)
