@@ -1,4 +1,7 @@
-### Hi there 👋
+[![Header](https://www.creative-tim.com/blog/content/images/size/w1140/2021/08/rebranding-post--1-.jpg "Header")](https://www.creative-tim.com/)
+
+
+### Hi there 👋, Nikhil Here ![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 ## Thanks for dropping by! Here is peak about me and my projects! 😄
 
 ## Education
@@ -15,7 +18,7 @@ I am primarily interested in:
 - Data Visualization. 
 
 
-## Technical Skills
+## 💻 Technical Skills:
 - ### Languagues: 
 <ol> 
 - Python3, R, Oracle SQL, Shell & Unix Scripting. 
