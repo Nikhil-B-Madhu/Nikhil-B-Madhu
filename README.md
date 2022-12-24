@@ -1,10 +1,16 @@
-[![Header](https://www.creative-tim.com/blog/content/images/size/w1140/2021/08/rebranding-post--1-.jpg "Header")](https://www.creative-tim.com/)
+[![Header](https://github.com/Oakseeker/Oakseeker/blob/main/NIKHIL%20B%20M.jpg "Header")](https://github.com/Oakseeker/)
+
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/NikhilBM4)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/nikhilbm/)
+[![Github Badge](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Oakseeker/)
+
+### Hey there 👋
+## Thanks for dropping by! ![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) Here is peak about me and my projects! 😄
 
 
-### Hi there 👋, Nikhil Here ![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-## Thanks for dropping by! Here is peak about me and my projects! 😄
 
-## Education
+
+## 🎓 Education
 ### Master's in Data Science
 - University of Colorado Boulder, Boulder, CO
 ### BTech. - Electronic and Communication Engineering 
@@ -68,13 +74,13 @@ Agile and Waterfall.
 
 ## Personal Projects
 - ### [Spotify Music Recommendation system](https://github.com/Oakseeker/Spotify_Music_Analytics_and_Recommendation_Engine), University of Colorado Boulder
-<ol>- Spearheaded a team of 4 to fabricate a probabilistic model for the Song data obtained from Spotify API. Developed data preprocessing pipeline for performing essential Exploratory Data Analysis (EDA). Performed Feature extraction to enchance features and to develop a song recommendation engine using K-Mean clustering in R. The model performed with an accuracy of 75%. Performed regression analysis to predict the popularity of the song by using multiple song features. Created a dashboard using PowerBI to further enchance the useability of the project.
+<ol>- Spearheaded a team of 4 to fabricate a probabilistic model for the Song data obtained from Spotify API. Developed data preprocessing pipeline for performing essential Exploratory Data Analysis (EDA). Performed Feature extraction to enchance features and to develop a song recommendation engine using K-Mean clustering in R. The model performed with an accuracy of 75%. Performed regression analysis to predict the popularity of the song by using multiple song features. Created a dashboard using PowerBI to further enchance the useability of the project.</ol>
 
-- ### StockBuff – Stacked temporal and sentiment analysis, University of Colorado Boulder 
+- ### [StockBuff – Stacked Temporal and Sentiment Analysis](https://github.com/Oakseeker/StockBuff-Stacked-temporal-and-sentiment-analysis-of-Stock-Market-Data), University of Colorado Boulder 
 <ol>- Implemented Data Mining and market correlations to proactively predict stock market fluctuations using LSTM, mixed feature classifications and sentiment analysis.</ol>
 <ol>- Deployed LSTM for time series analysis, NLP features for Sentiment Analysis and used ensemble model to boost the model’s prediction performance in predicting a stock price of a company.</ol>
 
-- ### Mutual Identity Authentication for Blockchain, Manipal Institute of Technology, India 
+- ### [Mutual Identity Authentication for Blockchain](https://github.com/Oakseeker/Blockchain-auth), Manipal Institute of Technology, India 
 <ol>- Developed an authentication protocol for mutually authenticating between three parties in a public blockchain system at any given time; reducing by 75% of authentication time compared to existing systems.</ol>
 <ol>- Led the implementation of a five-node public blockchain network using Hyperledger Fabric and Golang; applied Elliptic Curve Cryptography for developing an authentication protocol.</ol>
 
@@ -93,7 +99,13 @@ Agile and Waterfall.
 
 
 
-
+ ## 
+![Safe](https://img.shields.io/badge/Stay-Safe-red?logo=data:image/svg%2bxml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNTEwIDUxMCIgaGVpZ2h0PSI1MTIiIHZpZXdCb3g9IjAgMCA1MTAgNTEwIiB3aWR0aD0iNTEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjxnPjxwYXRoIGQ9Im0xNzQuNjEgMzAwYy0yMC41OCAwLTQwLjU2IDYuOTUtNTYuNjkgMTkuNzJsLTExMC4wOSA4NS43OTd2MTA0LjQ4M2g1My41MjlsNzYuNDcxLTY1aDEyNi44MnYtMTQ1eiIgZmlsbD0iI2ZmZGRjZSIvPjwvZz48cGF0aCBkPSJtNTAyLjE3IDI4NC43MmMwIDguOTUtMy42IDE3Ljg5LTEwLjc4IDI0LjQ2bC0xNDguNTYgMTM1LjgyaC03OC4xOHYtODVoNjguMThsMTE0LjM0LTEwMC4yMWMxMi44Mi0xMS4yMyAzMi4wNi0xMC45MiA0NC41LjczIDcgNi41NSAxMC41IDE1LjM4IDEwLjUgMjQuMnoiIGZpbGw9IiNmZmNjYmQiLz48cGF0aCBkPSJtMzMyLjgzIDM0OS42M3YxMC4zN2gtNjguMTh2LTYwaDE4LjU1YzI3LjQxIDAgNDkuNjMgMjIuMjIgNDkuNjMgNDkuNjN6IiBmaWxsPSIjZmZjY2JkIi8+PHBhdGggZD0ibTM5OS44IDc3LjN2OC4wMWMwIDIwLjY1LTguMDQgNDAuMDctMjIuNjQgNTQuNjdsLTExMi41MSAxMTIuNTF2LTIyNi42NmwzLjE4LTMuMTljMTQuNi0xNC42IDM0LjAyLTIyLjY0IDU0LjY3LTIyLjY0IDQyLjYyIDAgNzcuMyAzNC42OCA3Ny4zIDc3LjN6IiBmaWxsPSIjZDAwMDUwIi8+PHBhdGggZD0ibTI2NC42NSAyNS44M3YyMjYuNjZsLTExMi41MS0xMTIuNTFjLTE0LjYtMTQuNi0yMi42NC0zNC4wMi0yMi42NC01NC42N3YtOC4wMWMwLTQyLjYyIDM0LjY4LTc3LjMgNzcuMy03Ny4zIDIwLjY1IDAgNDAuMDYgOC4wNCA1NC42NiAyMi42NHoiIGZpbGw9IiNmZjRhNGEiLz48cGF0aCBkPSJtMjEyLjgzIDM2MC4xMnYzMGg1MS44MnYtMzB6IiBmaWxsPSIjZmZjY2JkIi8+PHBhdGggZD0ibTI2NC42NSAzNjAuMTJ2MzBoMzYuMTRsMzIuMDQtMzB6IiBmaWxsPSIjZmZiZGE5Ii8+PC9nPjwvc3ZnPg==)
+[![ForTheBadge 20-30](http://ForTheBadge.com/images/badges/ages-20-30.svg)](http://ForTheBadge.com)
+[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/Oakseeker/)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/Oakseeker/)
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
+  
 
 <!--
 **Oakseeker/Oakseeker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
