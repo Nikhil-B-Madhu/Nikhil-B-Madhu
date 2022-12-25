@@ -65,6 +65,10 @@ Agile and Waterfall.
 - Led a team of 5 to develop Git pipelines for performing ETL using AWS Lambda, GLUE, Spark; cutting down manual work by 10hrs.
 - Trained and mentored junior programmers in ETL methodologies; cutting down time for development by 20%.
 - Directed various build activities aligning underlying architecture with business requirements, addressing business issues, data reloads, building data pipelines using Informatica BDM, AWS Glue, and Git pipelines.
+- As an ETL developer, I am well-versed in Oracle SQL, Informatica BDM, Dataiku DSS, Pyspark and AWS services like Glue, Lambda, S3, and EC2.
+-  I also have experience operating very large data warehouses, Big Data technologies, designing schemas, relational & dimensional data modelling and working with slowing changing dimension tables. 
+-  I have collaborated with product owners, and clients and have trained incoming freshers and laterals on our application and various other tech stacks. I also have exposure to visualization tools like Microsoft PowerBI and Tableau. 
+-  I have built Data Pipelines with an ETL job running on both AWS Glue and Dataiku to perform ETL on business requirements. I also have worked as an UNIX admin and have UNIX and Shell scripting experience. 
 
 ### Machine Learning Intern @ Indian Institute of Science Bangalore, India
 *May 2019 – July 2019*
@@ -78,6 +82,8 @@ Agile and Waterfall.
 
 - ### 📈 [StockBuff – Stacked Temporal and Sentiment Analysis](https://github.com/Oakseeker/StockBuff-Stacked-temporal-and-sentiment-analysis-of-Stock-Market-Data), University of Colorado Boulder 
 <ol>- Implemented Data Mining and market correlations to proactively predict stock market fluctuations using LSTM, mixed feature classifications and sentiment analysis.</ol>
+<ol>- Gathered twitter data using Twitter API and financial data using Yahoo Finance API.</ol>
+<ol>- Performed sentiment analysis on the twitter data using FinBERT model.</ol>
 <ol>- Deployed LSTM for time series analysis, NLP features for Sentiment Analysis and used ensemble model to boost the model’s prediction performance in predicting a stock price of a company.</ol>
 
 - ### 💲 [Mutual Identity Authentication for Blockchain](https://github.com/Oakseeker/Blockchain-auth), Manipal Institute of Technology, India 
