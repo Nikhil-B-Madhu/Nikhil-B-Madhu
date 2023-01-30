@@ -95,7 +95,7 @@ Agile and Waterfall.
 - [DDMIA: Distributed Dynamic Mutual Identity Authentication for Referrals in Blockchain-Based Health Care Networks](https://ieeexplore.ieee.org/document/9837070?source=authoralert)
 
 ## 📱 Contact
-- GitHub: [Oakseeker](https://github.com/Oakseeker/)
+- GitHub: [Nikhil-B-Madhu](https://github.com/Nikhil-B-Madhu)
 - Linkedin: [Nikhil B M](https://www.linkedin.com/in/nikhilbm/)
 - Twitter: [Nikhil B M](https://twitter.com/NikhilBM4)
 
